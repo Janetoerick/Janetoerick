@@ -1,6 +1,6 @@
 ## Olá! Eu sou Janeto Erick 👋 
 
-- 🌱 Estudando: React Native
+- 🌱 Estudando: Angular
 - 📫 Contate-me no email: janetoerick18@gmail.com
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Janetoerick&show_icons=true&theme=dracula)
@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring" align="center">  
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" align="center">  
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react_native" align="center">  
+  <img src="https://img.shields.io/badge/Angular-E34F26?style=for-the-badge&logo=angular&logoColor=white" alt="angular" align="center">  
   
 </div>
 <!--
