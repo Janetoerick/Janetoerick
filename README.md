@@ -3,6 +3,8 @@
 - 🌱 Estudando: Angular
 - 📫 Contate-me no email: janetoerick18@gmail.com
 
+- Visite meu portfólio em <https://janetoerick.github.io/My_Page/>
+
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Janetoerick&show_icons=true&theme=dracula)
 
 <div style="display: inline_block"><br/>
