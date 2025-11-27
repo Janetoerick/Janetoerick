@@ -1,9 +1,9 @@
-## Olá! Eu sou Janeto Erick 👋 
+## Hi! I'm Janeto Erick 👋 
 
-- 🌱 Estudando: Angular
-- 📫 Contate-me no email: janetoerick18@gmail.com
+- 🌱 Studying: Angular
+- 📫 Contact me by email: janetoerick18@gmail.com
 
-- Visite meu portfólio em <https://janetoerick.github.io/My_Page/>
+- Visit my portfolio at <https://janetoerick.github.io/My_Page/>
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Janetoerick&show_icons=true&theme=dracula)
 
