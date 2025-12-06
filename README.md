@@ -34,8 +34,11 @@ Aqui estão as principais tecnologias com as quais trabalho, englobando linguage
 ## 📈 Minhas Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Janetoerick&show_icons=true&include_all_commits=true&count_private=true&theme=default&bg_color=00000000&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janetoerick&layout=compact&langs_count=8&theme=default&bg_color=00000000&locale=pt-br" alt="Linguagens Mais Usadas" />
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=Janetoerick&theme=onedark&no-frame=true&no-bg=true&row=1&column=4" alt="Troféus do GitHub" /> -->
+
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janetoerick&theme=dark&locale=pt_BR&hide_border=true&background=00000000&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /> -->
+  
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Janetoerick&layout=compact&langs_count=8&theme=dark&hide_border=true&background=00000000" alt="Linguagens Mais Usadas" />
 </p>
 
 ---
