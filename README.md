@@ -1,8 +1,8 @@
-# Olá, sou o Janetoerick! 👋
+# Olá, sou Janeto Erick! 👋
 
 ## ✨ Sobre Mim
 
-Sou um desenvolvedor apaixonado por construir soluções robustas e funcionais. Minha experiência abrange o **desenvolvimento Front-end e Back-end** com foco em performance e boas práticas de código. Estou sempre em busca de novos desafios e tecnologias para aprimorar minhas habilidades.
+Sou um desenvolvedor fascinado por construir soluções robustas e funcionais. Minha experiência abrange o **desenvolvimento Front-end e Back-end** com foco em performance e boas práticas de código. Estou sempre em busca de novos desafios e tecnologias para aprimorar minhas habilidades.
 
 - 🌱 Atualmente explorando a fundo **PHP** e **Docker**.
 - 💡 Buscando oportunidades para aplicar minhas habilidades em projetos inovadores.
